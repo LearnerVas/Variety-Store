@@ -1,0 +1,68 @@
+[
+    {
+      "category": "snacks",
+      "products": [
+        {
+          "name": "Small Piattos (Roadhouse BBQ)",
+          "details": "20 Pesos",
+          "image": "assets/snacks/piattosbbq.jpg"
+        },
+        {
+          "name": "Large Piattos (Cheese)",
+          "details": "35 Pesos",
+          "image": "assets/snacks/piattoscheese.jpg"
+        },
+        {
+            "name": "Small Piattos (Roadhouse BBQ)",
+            "details": "20 Pesos",
+            "image": "assets/snacks/piattosbbq.jpg"
+          },
+          {
+            "name": "Small Piattos (Roadhouse BBQ)",
+            "details": "20 Pesos",
+            "image": "assets/snacks/piattosbbq.jpg"
+          }
+      ]
+    },
+    {
+      "category": "bread",
+      "products": [
+        {
+          "name": "Cream-O",
+          "details": "(Chocolate, Pack of 10, 50 Pesos)",
+          "image": "assets/bread/cream-o.jpg"
+        }
+      ]
+    },
+    {
+      "category": "necessities",
+      "products": [
+        {
+          "name": "Cream Silk",
+          "details": "(Pink, 180ml, 150 Pesos)",
+          "image": "assets/necessities/cream-silk.jpg"
+        }
+      ]
+    },
+    {
+      "category": "powdered",
+      "products": [
+        {
+          "name": "Birch Tree",
+          "details": "(Full Cream Milk, 300g, 120 Pesos)",
+          "image": "assets/powdered/birch-tree.jpg"
+        }
+      ]
+    },
+    {
+        "category": "others",
+        "products": [
+            {
+                "name": "Pancit Canton",
+                "details": "(17 Pesos)",
+                "image": "assets/others/pancit.jpg"
+            }
+        ]
+    }
+  ]
+  
