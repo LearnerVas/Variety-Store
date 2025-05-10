@@ -1,0 +1,277 @@
+[
+  {
+    "category": "snacks",
+    "products": [
+      {
+        "name": "Small Piattos (Roadhouse BBQ)",
+        "details": "₱ 20",
+        "image": "assets/snacks/piattosbbq.jpg"
+      },
+      {
+        "name": "Small Piattos (Cheese)",
+        "details": "₱ 20",
+        "image": "assets/snacks/piattoscheese.jpg"
+      },
+      {
+        "name": "Small Piattos (Sour Cream and Onion)",
+        "details": "₱ 20",
+        "image": "assets/snacks/piattossour.jpg"
+      },
+      {
+        "name": "Small Piattos (Roast Beef)",
+        "details": "₱ 20",
+        "image": "assets/snacks/piattosroast.jpg"
+      },
+      {
+        "name": "Small Piattos (Bulgogi)",
+        "details": "₱ 20",
+        "image": "assets/snacks/piattosbulgogi.jpg"
+      },
+      {
+        "name": "Small Mr.Chips (Sweet Corn)",
+        "details": "₱ 11",
+        "image": "assets/snacks/mrchips.jpg"
+      },
+      {
+        "name": "Small Cheeserings",
+        "details": "₱ 11",
+        "image": "assets/snacks/cheeserings.jpg"
+      },
+      {
+        "name": "Small Cheez Chips",
+        "details": "₱ 10",
+        "image": "assets/snacks/cheezchips.jpg"
+      },
+      {
+        "name": "Small Oishi (Cracklings)",
+        "details": "₱ 10",
+        "image": "assets/snacks/cracklings.jpg"
+      },
+      {
+        "name": "Small Fishda",
+        "details": "₱ 10",
+        "image": "assets/snacks/fishda.jpg"
+      },
+      {
+        "name": "Small Calbee (Honey Butter)",
+        "details": "₱ 20",
+        "image": "assets/snacks/honeybutter.jpg"
+      },
+      {
+        "name": "Small Kirei",
+        "details": "₱ 10",
+        "image": "assets/snacks/kirei.jpg"
+      },
+      {
+        "name": "Small Mang Juan (Chicken Skin)",
+        "details": "₱ 10",
+        "image": "assets/snacks/mangjuan.jpg"
+      },
+      {
+        "name": "Small Oishi Original",
+        "details": "₱ 10",
+        "image": "assets/snacks/oishiOG.jpg"
+      },
+      {
+        "name": "Small Corn Ole",
+        "details": "₱ 10",
+        "image": "assets/snacks/ole.jpg"
+      },
+      {
+        "name": "Small Patata",
+        "details": "₱ 10",
+        "image": "assets/snacks/patata.jpg"
+      },
+      {
+        "name": "Small Prawn Crackers (Spicy)",
+        "details": "₱ 10",
+        "image": "assets/snacks/prawnspicy.jpg"
+      },
+      {
+        "name": "Small Onion Rings",
+        "details": "₱ 10",
+        "image": "assets/snacks/rings.jpeg"
+      },
+      {
+        "name": "Small Shripon",
+        "details": "₱ 10",
+        "image": "assets/snacks/shripon.jpg"
+      },
+      {
+        "name": "Small Boogeyman",
+        "details": "₱ 10",
+        "image": "assets/snacks/boogeyman.jpeg"
+      },
+      {
+        "name": "Snacku Small(Rice Cracker)",
+        "details": "₱ 11",
+        "image": "assets/snacks/snacku.jpeg"
+      },
+      {
+        "name": "Small Clover(Chicken BBQ)",
+        "details": "₱ 10",
+        "image": "assets/snacks/cloverbbq.jpeg"
+      },
+      {
+        "name": "Small Tempura",
+        "details": "₱ 12",
+        "image": "assets/snacks/tempura.jpeg"
+      },
+      {
+        "name": "Small Tomi",
+        "details": "₱ 10",
+        "image": "assets/snacks/tomi.jpeg"
+      },
+      {
+        "name": "Small Nutri Star (Barbecue)",
+        "details": "₱ 10",
+        "image": "assets/snacks/nutribbq.jpeg"
+      },
+      {
+        "name": "Small Okeji",
+        "details": "₱ 10",
+        "image": "assets/snacks/okeji.jpeg"
+      }
+    ]
+  },
+  {
+    "category": "bread",
+    "products": [
+      {
+        "name": "Cream-O (Choco-Choocolate Chips)",
+        "details": "₱ 12",
+        "image": "assets/bread/creamo.jpeg"
+      },
+      {
+        "name": "Hansel (Milk Fillings)",
+        "details": "₱ 9",
+        "image": "assets/bread/hanselmilk.jpeg"
+      },
+      {
+        "name": "Hansel (No Fillings)",
+        "details": "₱ 9",
+        "image": "assets/bread/hanselog.jpeg"
+      },
+      {
+        "name": "Magic Junior (Condensada Cracker)",
+        "details": "₱ 9",
+        "image": "assets/bread/magic.jpg"
+      },
+      {
+        "name": "Butter Creams (Original)",
+        "details": "₱ 9",
+        "image": "assets/bread/buttercream.jpeg"
+      },
+      {
+        "name": "Butter Coconut",
+        "details": "₱ 9",
+        "image": "assets/bread/buttercoconut.jpeg"
+      },
+      {
+        "name": "Overload (Chocolate and Strawberry)",
+        "details": "₱ 9",
+        "image": "assets/bread/overload.jpeg"
+      },
+      {
+        "name": "Fudgee Bar (Vanilla Flavor)",
+        "details": "₱ 9",
+        "image": "assets/bread/fudgeebar.jpeg"
+      }
+    ]
+  },
+  {
+    "category": "necessities",
+    "products": [
+      {
+        "name": "Sun Silk",
+        "details": "₱ 9",
+        "image": "assets/necessities/sunsilk.jpg"
+      },
+      {
+        "name": "Colgate",
+        "details": "₱ 12",
+        "image": "assets/necessities/colgate.jpg"
+      },
+      {
+        "name": "Joy",
+        "details": "₱ 8",
+        "image": "assets/necessities/joy.jpg"
+      }
+    ]
+  },
+  {
+    "category": "powdered",
+    "products": [
+      {
+        "name": "Birch Tree",
+        "details": "₱ 13",
+        "image": "assets/powdered/birchtree.jpeg"
+      },
+      {
+        "name": "Bear Brand",
+        "details": "₱ 15",
+        "image": "assets/powdered/bearbrand.jpeg"
+      },
+      {
+        "name": "Birch Tree",
+        "details": "₱ 15",
+        "image": "assets/powdered/kopiko.jpeg"
+      },
+      {
+        "name": "Milo",
+        "details": "₱ 12",
+        "image": "assets/powdered/milo.jpeg"
+      }
+    ]
+  },
+  {
+    "category": "noodles",
+    "products": [
+      {
+        "name": "Lucky Me Pancit Canton (Original)",
+        "details": "₱ 17",
+        "image": "assets/noodles/pancitog.jpeg"
+      },
+      {
+        "name": "Lucky Me Pancit Canton (Chilimansi)",
+        "details": "₱ 17",
+        "image": "assets/noodles/pansitchilimansi.jpeg"
+      },
+      {
+        "name": "Lucky Me Pancit Canton (Sweet and Spicy)",
+        "details": "₱ 17",
+        "image": "assets/noodles/pansitsweet.jpeg"
+      },
+      {
+        "name": "Lucky Me Pancit Canton (Spicy)",
+        "details": "₱ 17",
+        "image": "assets/noodles/pansitspicy.jpeg"
+      },
+      {
+        "name": "Lucky Me Noodles (Beef)",
+        "details": "₱ 11",
+        "image": "assets/noodles/noodlsbeef.jpeg"
+      },
+      {
+        "name": "Lucky Me Noodles (Chicken)",
+        "details": "₱ 11",
+        "image": "assets/noodles/noodlschx.jpeg"
+      },
+      {
+        "name": "Lucky Me Cup Noodles (Bachoy)",
+        "details": "₱ 25",
+        "image": "assets/noodles/cupbachoy.jpeg"
+      },
+      {
+        "name": "Lucky Me Cup Noodles (Bulalo)",
+        "details": "₱ 25",
+        "image": "assets/noodles/cupbulalo.jpeg"
+      },
+      {
+        "name": "Any For Sale (Cup Noodles)",
+        "details": "₱ 25",
+        "image": "assets/noodles/blank.jpg"
+      }
+    ]
+  }
+]

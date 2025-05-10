@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Display</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Product List</h1>
+    <nav>
+      <ul>
+        <li><a href="#" onclick="loadCategory('snacks')">Snacks</a></li>
+        <li><a href="#" onclick="loadCategory('bread')">Bread</a></li>
+        <li><a href="#" onclick="loadCategory('necessities')">Necessities</a></li>
+        <li><a href="#" onclick="loadCategory('powdered')">Powdered Products</a></li>
+        <li><a href="#" onclick="loadCategory('noodles')">Noodles</a></li>
+        <!-- <li><a href="#" onclick="loadCategory('others')">Others</a></li> -->
+      </ul>
+    </nav>
+  </header>
+
+  <section id="product-list">
+    <!-- Table of products will be injected here -->
+  </section>
+
+  <script src="scripts/script.js"></script>
+</body>
+</html>
