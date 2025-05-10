@@ -6,6 +6,7 @@
   <title>Product Display</title>
   <link rel="stylesheet" href="styles/styles.css" />
 </head>
+
 <body>
   <header>
     <h1>Product List</h1>
@@ -26,5 +27,14 @@
   </section>
 
   <script src="scripts/script.js"></script>
+
+  <!-- Service Worker Registration Script -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(() => console.log('Service Worker registered'))
+        .catch(error => console.error('Service Worker registration failed:', error));
+    }
+  </script>
 </body>
 </html>
